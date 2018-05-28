@@ -1,0 +1,4 @@
+Jdk --> jdk download, path set --> 
+
+compile --> javac FileName.java
+run	--> java ClassName.java
